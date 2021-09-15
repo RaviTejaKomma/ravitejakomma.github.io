@@ -17,8 +17,8 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Rohini Barla Blog"
-description: "As part of 21-Day Writing Challenge."
+title: "Ravi Teja Komma Blog"
+description: "Developer, Entrepreneur and Lifelong Learner"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -91,10 +91,10 @@ defaults:
 
 # Site Author
 author:
-  name: Rohini Kumar Barla
+  name: Ravi Teja Komma
   picture:
-  email: rohinibarla@hey.com
-  twitter: rohinibarla
+  email:
+  twitter:
   links:
     - title:
       url:
